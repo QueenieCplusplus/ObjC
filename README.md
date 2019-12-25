@@ -36,6 +36,10 @@ Intro, 導讀
  * polymorphism, 類別繼承其中一個功能 (多型，可利用方法多載或是覆寫方法達成)
  
    https://github.com/QueenieCplusplus/ObjectC_overloadoverride
+   
+ * extension, 類別擴充 (在已有類別上，對類別進行方法的擴充)
+ 
+   TBD...
 
  * protocol, c 語言無法多重繼承故設計協定 (爾後在 swift 語言尚衍生出委派功能)
  
