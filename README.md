@@ -37,7 +37,7 @@ Intro, 導讀
  
    https://github.com/QueenieCplusplus/ObjectC_overloadoverride
    
- * extension, 類別擴充 (在已有類別上，對類別進行方法的擴充)
+ * extension, 類別擴充或稱分類 (在已有類別上，對類別進行方法的擴充)
  
    TBD...
 
