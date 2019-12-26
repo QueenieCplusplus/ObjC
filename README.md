@@ -31,7 +31,7 @@ Intro, 導讀
    
  * bundle Id, 動態繫結和動態類型
  
-   
+   https://github.com/QueenieCplusplus/ObjectC_bundle  
  
  * property, 類別中的屬性設計
  
