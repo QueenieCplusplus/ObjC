@@ -39,7 +39,7 @@ Intro, 導讀
    
  * category, 類別擴充或稱分類 (在已有類別上，對類別進行方法的擴充)
  
-   TBD...
+   https://github.com/QueenieCplusplus/ObjectC_category
 
  * protocol, c 語言無法多重繼承故設計協定 (爾後在 swift 語言尚衍生出委派功能)
  
