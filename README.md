@@ -27,7 +27,9 @@ Intro, 導讀
 
  * cast, 自動或稱隱性的資料轉換和強制的資料轉換
  
-   (TBD, 此功能實作前要考慮型別集合的父子關係，則可以避免編譯時期錯誤，常見於 Swift。)
+   (此功能實作前要考慮型別集合的父子關係，則可以避免編譯時期錯誤，常見於 Swift。)
+   
+   https://github.com/QueenieCplusplus/ObjectC_cast
    
  * bundle Id, 動態繫結和動態類型
  
